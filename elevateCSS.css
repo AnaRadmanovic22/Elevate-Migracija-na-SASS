@@ -1,3 +1,4 @@
+/* Responsive Mixin */
 /* General Styles */
 body {
   font-family: Arial, sans-serif;
@@ -109,7 +110,6 @@ h2 {
   color: #ffffff;
 }
 
-/* Responsive */
 @media screen and (max-width: 992px) {
   .card-list {
     flex-direction: column;
